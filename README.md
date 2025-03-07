@@ -43,5 +43,5 @@ This project is structured as follows:
 
 1️⃣ Clone the repository:  
 ```bash
-git clone https://github.com/your-username/DQN-and-DeepRL-Gym.git
+git clone https://github.com/Kallistina/dqn-gym-experiments.git
 cd DQN-and-DeepRL-Gym
